@@ -13,4 +13,4 @@ This project includes my python implementations for the algorithms taught in the
 
 
 ### Cheatsheet: 
-Here is a cheatsheet providing all the formulas and their performance characteristics: https://algs4.cs.princeton.edu/cheatsheet/
+Here is a cheatsheet providing all the algorithms and their performance characteristics: https://algs4.cs.princeton.edu/cheatsheet/
